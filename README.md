@@ -1,2 +1,6 @@
 # Data-Analyst-Dashboard-with-Excel
 This project analyzes customer data related to bike purchases to identify patterns and insights. The dataset includes demographic and behavioral attributes such as gender, marital status, age bracket, and commute distance. The analysis involves data cleaning, transformation, and visualization to understand purchasing trends.
+
+#Bike Purchase Data Analysis
+##Objective
+The goal of this project is to explore how different factors—such as gender, age bracket, and commute distance—affect bike purchases. The insights derived can help businesses tailor their marketing strategies and understand customer preferences.
