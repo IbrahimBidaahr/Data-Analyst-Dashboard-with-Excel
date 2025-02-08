@@ -21,3 +21,10 @@ The goal of this project is to explore how different factors—such as gender, a
 -Added a new column for age brackets: "Adolescent," "Middle Age," and "Old."
 
 -Standardized commute distance, converting "10+ miles" to "More than 10 miles."
+
+### Data Analysis & Visualization
+Created a dashboard with three key visualizations:
+-Average Income by Gender per Purchase
+-Age Bracket Distribution of Bike Purchases
+-Customer Commute Distance per Bike Purchase
+
