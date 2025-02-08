@@ -24,7 +24,10 @@ The goal of this project is to explore how different factors—such as gender, a
 
 ### Data Analysis & Visualization
 Created a dashboard with three key visualizations:
+
 -Average Income by Gender per Purchase
+
 -Age Bracket Distribution of Bike Purchases
+
 -Customer Commute Distance per Bike Purchase
 
