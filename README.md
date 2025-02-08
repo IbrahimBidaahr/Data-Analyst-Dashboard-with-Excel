@@ -11,3 +11,4 @@ The goal of this project is to explore how different factors—such as gender, a
 
 -How does commute distance influence bike purchases?
 
+-Dashboard intereation <a href="https://github.com/IbrahimBidaahr/Data-Analyst-Dashboard-with-Excel/blob/main/dashboard.png"> View Dashboard </a>
