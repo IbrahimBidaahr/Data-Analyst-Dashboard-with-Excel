@@ -30,4 +30,13 @@ Created a dashboard with three key visualizations:
 -Age Bracket Distribution of Bike Purchases
 
 -Customer Commute Distance per Bike Purchase
+### Insights & Interpretation
+-Identified income trends related to bike purchases.
+
+-Analyzed age brackets to understand which groups purchase bikes more frequently.
+
+-Examined commute distances to determine how location affects bike-buying behavior.
+## Tools Used
+-Microsoft Excel 
+
 
