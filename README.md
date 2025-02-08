@@ -12,3 +12,9 @@ The goal of this project is to explore how different factors—such as gender, a
 -How does commute distance influence bike purchases?
 
 -Dashboard intereation <a href="https://github.com/IbrahimBidaahr/Data-Analyst-Dashboard-with-Excel/blob/main/dashboard.png"> View Dashboard </a>
+## Process Followed
+### Data Cleaning & Transformation
+-Replaced gender codes (F, M) with "Female" and "Male."
+-Standardized marital status values to "Single" and "Married."
+-Added a new column for age brackets: "Adolescent," "Middle Age," and "Old."
+-Standardized commute distance, converting "10+ miles" to "More than 10 miles."
